@@ -1,4 +1,4 @@
-# HTML-CSS-Portfolio
+# HTML CSS Portfolio
 Bu repo, HTML ve CSS kullanılarak oluşturulmuş çeşitli web sitelerini içeren bir koleksiyon olarak hizmet vermektedir. Portföy, mimari stüdyolar ve spor salonları gibi farklı projeleri sergilemek için tasarlanmış web sitelerini içermektedir.
 
 

@@ -10,6 +10,14 @@ Bu repo, HTML ve CSS kullanılarak oluşturulmuş çeşitli web sitelerini içer
 
 
 
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/71cfc87d-1e8c-414d-8339-e838dd553cdc
+
+
+
+
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/6d4d5f3d-dc43-4f25-98d0-f56596c5702e
+
+
 
 
 ### 2. Gym Websites

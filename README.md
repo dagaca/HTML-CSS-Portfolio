@@ -9,8 +9,6 @@ Bu repo, HTML ve CSS kullanılarak oluşturulmuş çeşitli web sitelerini içer
    - **[Architecture Studio Websites](Architecture%20Studio%20Websites)**
 
 
-https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/47542542-c8db-42f2-8011-02aae7ad4c85
-
 
 
 

@@ -22,6 +22,17 @@ https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/c61e5f03-2afb-4707-
 https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/4a930929-28c9-4c33-91ce-99d2d33bb394
 
 
+### 3. Hotel & Restaurant Websites
+   - **Açıklama:** Bu bölüm, otel ve restoranlara adanmış web sitelerini içermektedir. Bu web siteleri, konaklama olanaklarını tanıtmak, restoran menülerini paylaşmak ve genel olarak işletmeler hakkında bilgiler sunmak amacıyla tasarlanmıştır.
+   - **[Hotel & Restaurant Websites](Hotel%20&%20Restaurant%20Websites)**
+
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/afe6954f-f261-4440-9d4f-05be7b580d51
+
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/4236a64a-dd17-4581-ad28-001e22681efa
+
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/1acf12d8-927a-4c51-9ed5-9214498b3c20
+
+
 ## Nasıl Başlamalı?
 
 1. Bu repo'yu bilgisayarınıza klonlayın.

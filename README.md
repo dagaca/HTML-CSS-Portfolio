@@ -26,11 +26,11 @@ https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/4a930929-28c9-4c33-
    - **Açıklama:** Bu bölüm, otel ve restoranlara adanmış web sitelerini içermektedir. Bu web siteleri, konaklama olanaklarını tanıtmak, restoran menülerini paylaşmak ve genel olarak işletmeler hakkında bilgiler sunmak amacıyla tasarlanmıştır.
    - **[Hotel & Restaurant Websites](Hotel%20&%20Restaurant%20Websites)**
 
-https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/afe6954f-f261-4440-9d4f-05be7b580d51
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/cb7dce82-0f2d-4194-a1b2-c25dc58eb302
 
-https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/4236a64a-dd17-4581-ad28-001e22681efa
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/f2ecccfe-ec60-4354-a730-7ee3faa86674
 
-https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/1acf12d8-927a-4c51-9ed5-9214498b3c20
+https://github.com/dagaca/HTML-CSS-Portfolio/assets/80363244/859c5e16-0159-4ea7-b800-f25f74465d04
 
 
 ## Nasıl Başlamalı?
